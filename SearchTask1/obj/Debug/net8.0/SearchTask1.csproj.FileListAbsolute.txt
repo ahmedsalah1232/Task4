@@ -1,0 +1,14 @@
+C:\Users\IT STORE\source\repos\SearchTask1\bin\Debug\net8.0\SearchTask1.exe
+C:\Users\IT STORE\source\repos\SearchTask1\bin\Debug\net8.0\SearchTask1.deps.json
+C:\Users\IT STORE\source\repos\SearchTask1\bin\Debug\net8.0\SearchTask1.runtimeconfig.json
+C:\Users\IT STORE\source\repos\SearchTask1\bin\Debug\net8.0\SearchTask1.dll
+C:\Users\IT STORE\source\repos\SearchTask1\bin\Debug\net8.0\SearchTask1.pdb
+C:\Users\IT STORE\source\repos\SearchTask1\obj\Debug\net8.0\SearchTask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IT STORE\source\repos\SearchTask1\obj\Debug\net8.0\SearchTask1.AssemblyInfoInputs.cache
+C:\Users\IT STORE\source\repos\SearchTask1\obj\Debug\net8.0\SearchTask1.AssemblyInfo.cs
+C:\Users\IT STORE\source\repos\SearchTask1\obj\Debug\net8.0\SearchTask1.csproj.CoreCompileInputs.cache
+C:\Users\IT STORE\source\repos\SearchTask1\obj\Debug\net8.0\SearchTask1.dll
+C:\Users\IT STORE\source\repos\SearchTask1\obj\Debug\net8.0\refint\SearchTask1.dll
+C:\Users\IT STORE\source\repos\SearchTask1\obj\Debug\net8.0\SearchTask1.pdb
+C:\Users\IT STORE\source\repos\SearchTask1\obj\Debug\net8.0\SearchTask1.genruntimeconfig.cache
+C:\Users\IT STORE\source\repos\SearchTask1\obj\Debug\net8.0\ref\SearchTask1.dll
